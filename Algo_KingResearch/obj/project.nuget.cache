@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyT3ibTyqMd0zyMW7pHvbdi6NlER0LzzzaeTQ4gsry6WKHg2UbqdIJ0f7csMVvCkosDprfMMAKmNz0Y8OYKJ4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\.NET\\WPF\\Algo_KingResearch\\Algo_KingResearch\\Algo_KingResearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\dragablz\\0.0.3.203\\dragablz.0.0.3.203.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\materialdesigncolors\\1.2.6\\materialdesigncolors.1.2.6.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\materialdesignthemes\\3.1.3\\materialdesignthemes.3.1.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Dragablz 0.0.3.203' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Dragablz",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
