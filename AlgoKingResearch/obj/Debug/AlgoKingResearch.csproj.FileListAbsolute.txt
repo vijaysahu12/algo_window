@@ -1,0 +1,48 @@
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\AlgoKingResearch.exe.config
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\AlgoKingResearch.exe
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\AlgoKingResearch.pdb
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\Dragablz.dll
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\MaterialDesignColors.dll
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\Dragablz.pdb
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\Dragablz.xml
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\MaterialDesignColors.pdb
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.csprojAssemblyReference.cache
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\MainWindow.g.cs
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\App.g.cs
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch_MarkupCompile.cache
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch_MarkupCompile.lref
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\MainWindow.baml
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.g.resources
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.Properties.Resources.resources
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.csproj.GenerateResource.cache
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.csproj.CoreCompileInputs.cache
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.csproj.CopyComplete
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.exe
+D:\Work\.NET\WPF\DotNetFramework WPF\AlgoKingResearch\AlgoKingResearch\obj\Debug\AlgoKingResearch.pdb
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\AlgoKingResearch.exe.config
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\AlgoKingResearch.exe
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\AlgoKingResearch.pdb
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\Dragablz.dll
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\MaterialDesignColors.dll
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\Dragablz.pdb
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\Dragablz.xml
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\MaterialDesignColors.pdb
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.csprojAssemblyReference.cache
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\MainWindow.g.cs
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\App.g.cs
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch_MarkupCompile.cache
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch_MarkupCompile.lref
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\MainWindow.baml
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.g.resources
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.Properties.Resources.resources
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.csproj.GenerateResource.cache
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.csproj.CoreCompileInputs.cache
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.csproj.CopyComplete
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.exe
+D:\Work\.NET\WPF\Algo_KingResearch\algo_window\AlgoKingResearch\obj\Debug\AlgoKingResearch.pdb
